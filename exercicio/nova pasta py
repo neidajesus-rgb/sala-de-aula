@@ -1,0 +1,121 @@
+def avaliar_estudante(p1, p2,) frequencia,
+entregou_trabalho_extra):media=(p1+ p2)/2
+if frequencia <75:
+    return "reprovado por frequencia"
+if media>=70
+return"aprovado direto
+elif media >=5.0
+if entregou _trabalho=extrai media>+=1.0
+if media>=70
+return"aprovado com trabalho extra
+
+else
+return "reprovado por nota"
+
+print(avaliar_estudante) (6.0)(6.5,80 true) 
+print( avaliar_estudante(8.0 9.0,70,false))
+
+resulatdo 
+avaliar_estudante(6.0,6,5 80,true) aprovado com trabalho
+extra
+.avaliar_estudante(8.0 9.0.7.0. false_ reprovado por frequenci
+
+
+
+
+def localizar_ponto(x,y):
+
+if x == 0 and y== 0:
+return "origem" 
+
+elif x==0 and y!=0:
+return"eixo y"
+elif x!=0 and y==0: 
+return"eixox"Exception
+elif return "q1"
+elifx<0 and Y> 0:
+return "q2"quit
+elif x < 0 and y< 0
+return "q3"quit
+elif x> 0 and y< 0:
+return "q4"quit
+
+print(localizar_ponto (0,5))
+print (localizar_pnto (_3,_4))
+
+resultados:
+ localizar_ponto(0,5)_eixo yield
+localizar_ponto(_3,_4)_q3
+ 
+
+ 3 exercicio simulador de tarifaço telefonica
+
+ def calcular_fatura__telefonica (minutos,gigas,e estudantes);faturas=50.00
+ if minutos>100:
+ fatura+=(minutos-100)*0,50
+ if gigas>5:
+ fatura+=(gigas_5)*10.00
+ if e _estudantes and fatura>100:
+ 
+ fatura__=20.00
+ return f "fatura final:R${fatura:.2f}"float
+
+ print(calcular_fatura_telfone(120,7, true ))
+ print(calcular_fatura_telefone
+       (80,4 false))
+
+       resultado
+       fatura finally:R$ 60.00
+       fatura final:R$
+
+
+    4 exercicio
+    def avaliar seguro (idade,anos_carteira,historico_acidentes):
+    if idade<18.or
+    anos_carteira<1:
+    return"_nao elegivel"
+    if historico_acidente>
+    return"risco alto:recusado"
+    if historico_acidentes==0
+    if idade>=25 and anos _carteira>=3:
+    return"aprovado)
+    categoria vip"
+
+    else:
+    return"aprovado:
+    categoria padrao:
+
+if historico_acidente==
+1 or historico_acidente==2:
+return"aprovado"hasattr
+
+categoria alto risco"avaliar_seguro((8,5,0)
+print avaliar_seguro(22,2,3)
+
+resultado: aprovado:categoria vip
+risco alto:recusado
+
+
+5.ordenacão de tres valores sem vetores/laços.
+
+def ordenar_tres(a,b,c):
+menor,meio, maior
+a,b,c elif a<=(and c <=b:menor,meio,maior=
+               
+a,b,c
+
+elif b< = a and<=c: menor,meio,maior=
+
+a,c,break
+elif b<=a and a<=b:
+menor, meio, maior=
+ 
+ b,c,andelif c<= a and a<=b: menor,meio,maior=
+
+ c,b,and
+ return f"{menor},{meio}.{maior}"
+ print( ordenar_tres(42,9,17)
+       print(ordenar_tres(5,5,2)))
+
+       resultado 9,17,42
+       2,5,5
