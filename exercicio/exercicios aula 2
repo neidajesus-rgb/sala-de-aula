@@ -1,0 +1,50 @@
+# exercicio 1
+def filtra_pares(numeros:list):
+    pares = []
+    for n in numeros:
+        if n %2==0:
+            pares.append(n)
+
+    return pares
+
+    
+
+#exercicio 2:
+
+def contar_negativos(numeros:list):
+    contagem = 0
+    for n in numeros:
+        if < 0
+
+def somar_maiores_que(numero,limites):
+  soma=0
+  for numero in numero:
+    soma+=numero
+    return soma
+  print (somar_maiores_que({10,5,20,3,15},8))
+
+  resultado:
+
+  45 (10+20=15)
+  
+
+  exercicio 4
+
+  def zerar_negativos(numeros):
+  resultado={}"{for"" numero in numeros}
+
+  if numero<0
+
+    resultado (append)  (0)
+    else:
+    
+ resultado.append(numero)
+
+   return resultado
+    
+  print(zerar_negativos({4,-2,7,9,0}))
+
+  resultado:
+
+    {4,0,7,0,0}
+      
